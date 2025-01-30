@@ -1,0 +1,40 @@
+
+.color 0 0 1
+.arrow r1 r1 r1 r1 r1 r2 0.2
+.color 0 1 0
+.arrow r1 r1 r1 r1 r2 r1 0.2
+.color 1 0 0
+.arrow r1 r1 r1 r2 r1 r1 0.2
+.color black
+.arrow r1 r1 r2 r1 r2 r2 0.2 0.2 0.99
+.arrow r1 r1 r2 r2 r1 r2 0.2 0.2 0.99
+
+
+.arrow r2 r2 r1 r2 r1 r1 0.2 0.2 0.99
+.arrow r2 r2 r1 r1 r2 r1 0.2 0.2 0.99
+
+.arrow r2 r1  r1  r2 r1 r2 0.2 0.2 0.99
+.arrow r1 r2  r1  r1 r2 r2 0.2 0.2 0.99
+
+
+.arrow rd1 r2 r1 rd1 r2 rdd1 0.2 0.2 0.99
+.arrow rd2 r2 r1 rd2 r2 rdd1 0.2 0.2 0.99
+.arrow rd3 r2 r1 rd3 r2 rdd1 0.2 0.2 0.99
+.arrow rd4 r2 r1 rd4 r2 rdd1 0.2 0.2 0.99
+.arrow rd5 r2 r1 rd5 r2 rdd1 0.2 0.2 0.99
+.arrow rd6 r2 r1 rd6 r2 rdd1 0.2 0.2 0.99
+
+.arrow r1 rd1 r1 r1 rd1 rdd1 0.2 0.2 0.99
+.arrow r1 rd2 r1 r1 rd2 rdd1 0.2 0.2 0.99
+.arrow r1 rd3 r1 r1 rd3 rdd1 0.2 0.2 0.99
+.arrow r1 rd4 r1 r1 rd4 rdd1 0.2 0.2 0.99
+.arrow r1 rd5 r1 r1 rd5 rdd1 0.2 0.2 0.99
+.arrow r1 rd6 r1 r1 rd6 rdd1 0.2 0.2 0.99
+
+.arrow r1 r1 rd1 rdd1 r1 rd1 0.2 0.2 0.99
+.arrow r1 r1 rd2 rdd1 r1 rd2 0.2 0.2 0.99
+.arrow r1 r1 rd3 rdd1 r1 rd3 0.2 0.2 0.99
+.arrow r1 r1 rd4 rdd1 r1 rd4 0.2 0.2 0.99
+.arrow r1 r1 rd5 rdd1 r1 rd5 0.2 0.2 0.99
+.arrow r1 r1 rd6 rdd1 r1 rd6 0.2 0.2 0.99
+
